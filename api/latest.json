@@ -1,0 +1,11 @@
+{
+  "version": "0.1.11",
+  "notes": "Release v0.1.11",
+  "pub_date": "2025-06-08T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/Njcampos1/contableapp-rust/releases/download/v0.1.11/Eergo_0.1.11_x64-setup.exe"
+    }
+  }
+}
