@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
+  "notes": "Release v0.1.16",
+  "version": "0.1.16",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzdFY2xxL2pJRm1HdU1qNllScnEzemRPRHZtYXg3RzhDRkNrNis5dFhaem1mWE0wUENKM1RSKzNlZ3d5NmhzSzFsaElSVm4rb2hlN2dSMENkcnY0S2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDIyNDEwCWZpbGU6RWVyZ29fMC4xLjE1X3g2NC1zZXR1cC5leGUKcWl0M3hSWTlEMFVLT1RmMlhwd3VkUkJ4NW5jUmljek9VZWxFcFkxZHZQVHRBeDBGZHdMNHRKaGhGaVFYdmtQLytvSHlnL0piK0I2RE5vSGFvekx4Q0E9PQo=",
-      "url": "https://github.com/Njcampos1/contableapp-rust/releases/download/v0.1.15/Eergo_0.1.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZyb3dualJjMTFlenBvNDljNHd1OStVanRwNDQ0cUllOHJXRWVjZldweWZtdzI5R1lROHF1dWdLMnVEU2ZYUy9RRHZ5Z3dvV3lGdGRiUGlQNkZmRXpST2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDI1OTU1CWZpbGU6RWVyZ29fMC4xLjE2X3g2NC1zZXR1cC5leGUKUWFSakMrTW92MWsxQ2cyN3FDU2pZZjdOZFVQdldkT1cvMjMyVTVCWWJ2NkZCZlhpL0xXT0ZzZGdhMG5jZlNvR1lCbnpOMU5mTFh1ZEF0ajYzS3NlQnc9PQo=",
+      "url": "https://github.com/Njcampos1/contableapp-rust/releases/download/v0.1.16/Eergo_0.1.16_x64-setup.exe"
     }
   },
-  "pub_date": "2026-06-09T16:26:52Z",
-  "notes": "Release v0.1.15"
+  "pub_date": "2026-06-09T17:25:57Z"
 }
