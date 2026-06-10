@@ -1,11 +1,11 @@
 {
-  "notes": "Release v0.1.18",
+  "notes": "Release v0.1.19",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybytqNk51cUdOaWxNTGJ3NzE0ZDYxMjIvMWhFRnJseXU3V0pwc1NLWnpmbC9rMnhBS3ZBREpLb0ZZUnpQS0l0L3NQZlhsSTloclNJdEd3U0xVcXVDamdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDMzMTQ3CWZpbGU6RWVyZ29fMC4xLjE4X3g2NC1zZXR1cC5leGUKdmpMaVFxdDVqT0U4NlhITGE4N3JlclJlL3NMTVFVRitraUs0emhScGJMNDljbXNQR1RMTGhabTVtSWFLUVhXQmlYUUVxWEU5MWp0MldTNHM5bktKREE9PQo=",
-      "url": "https://github.com/Njcampos1/contableapp-rust/releases/download/v0.1.18/Eergo_0.1.18_x64-setup.exe"
+      "url": "https://eergo-updates.vercel.app/public/Eergo_0.1.18_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZyb3lnUlFYMVhmU1ZkNlA2N2xraVZhRDFYY1RiZzhyWmxlSFlLZjkzWmViamtzNzNFZExPVXRlU3NhVDI3QjlxR1NJUjBQcm9KUzkrWVJRa0RaM2hUMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDU0Mzg0CWZpbGU6RWVyZ29fMC4xLjE4X3g2NC1zZXR1cC5leGUKTFhtODdoUk5BaGJ4dXZvYlRsQVRQTDFTMDdvMDdtZ3JVWEVHd3l5UzhIRFNSVTNKMXpXSjcyU1JiN3Q4THVldzd0WHI2UWNpdEgrKzY1Q2U3L2dMQWc9PQo="
     }
   },
-  "version": "0.1.18",
-  "pub_date": "2026-06-09T19:25:50Z"
+  "version": "0.1.19",
+  "pub_date": "2026-06-10T01:19:47Z"
 }
