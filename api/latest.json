@@ -1,11 +1,11 @@
 {
+  "notes": "Release v0.1.45",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzZVa1NGckd0NDVjUndUdnZEUkZQWFF5bHBXZGM0Wlk5NkhoMlhJOFlCa1g2eUIwRVhQdW5oMmNSMnFkRzR1NnNCVysxM0ZSbjZTOHJiVUI0ZitMMWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjUyNjQ3CWZpbGU6RWVyZ29fMC4xLjQ0X3g2NC1zZXR1cC5leGUKWis2R1A5NjFpQUxyaHg4cnBqcmxaclZCcVBaY2ZOaW03SVF1SGxJK0FMZ1ptd1lvZGdOc3Y4M1pVc3dudGRVNTQxWUhtL0pISGl6UHRFanl6ekQyRGc9PQo=",
-      "url": "https://eergo-updates.vercel.app/public/Eergo_0.1.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZyb3kybVFLK1VSaFpMQnBKNWJEaXh5ZWpaUzNIcGZkcXQ2eHNCOTdySlBFczR1WXBEVjA4WDNhVjhKMmF5dmJVZS9CMU5LVnk4YXVwODVGUDVvTlRZaGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY3MjkzCWZpbGU6RWVyZ29fMC4xLjQ1X3g2NC1zZXR1cC5leGUKUzdpYk5iTVhEckF5MlZHRUFpVDZkaWlPNVNhZFBLSEdHRjZOQm5OU01Ia25kWmxTWndjZjdDUDdBRnVQMlR1T2JPK2VicmpNaXZKUEg3NzFnRUdaQ3c9PQo=",
+      "url": "https://eergo-updates.vercel.app/public/Eergo_0.1.45_x64-setup.exe"
     }
   },
-  "pub_date": "2026-07-05T11:57:29Z",
-  "notes": "Release v0.1.44",
-  "version": "0.1.44"
+  "version": "0.1.45",
+  "pub_date": "2026-07-20T17:08:23Z"
 }
