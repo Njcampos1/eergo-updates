@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzJGb2JsUG53L3dkcjB2ZlMrWlBKQmt3dEIzUHJpdW9Dc0N3OXpNZ2xaK2VyWm5sMjV5OFQrYkNaQjA5dDZsWGd2YTJOWVlyQVJTdmxEaEcyeEVPN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjA4OTIyCWZpbGU6RWVyZ29fMC4xLjUxX3g2NC1zZXR1cC5leGUKSUljOVF4SHp6eXltUXJNT2xTaklOekhnSk40ZzFZak1kbjJ1UnFEU3lwYllzNkgrLytBdi83SnB4OFJjMGpEcGtpSGx0U01lRXZjMHFmeWdibVBDRFE9PQo=",
-      "url": "https://eergo-updates.vercel.app/public/Eergo_0.1.51_x64-setup.exe"
+      "url": "https://github.com/Njcampos1/eergo-updates/releases/download/v0.1.51/Eergo_0.1.51_x64-setup.exe"
     }
   }
 }
