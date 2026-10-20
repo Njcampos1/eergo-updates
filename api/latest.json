@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-10-20T19:38:30Z",
+  "version": "0.1.70",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Njcampos1/eergo-updates/releases/download/v0.1.69/Eergo_0.1.69_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzZCc1pQTU94ZVZkVzBKTjlPVERJT0N2RzFNM3BOcjkxWGEvTDZiN0lHeHFNWENNY1AvZ25ueHYzb2ZwRHpYanJvaHZiTzZyY3VFVjZrVWhYMXV2N1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDg1MDA0CWZpbGU6RWVyZ29fMC4xLjY5X3g2NC1zZXR1cC5leGUKRWhiQTgwNW04c2RieXJkaFBnQXAvaUxIcW5oYVJYZlU3ZnkxZitHRzRaMUl0eHhGMWpuTFh2elYrWFpjSWlCaWpmVm14WXlTZTBqYVZ0Z3N5emdZQXc9PQo="
+      "url": "https://github.com/Njcampos1/eergo-updates/releases/download/v0.1.70/Eergo_0.1.70_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzJKd1NBNTRSZXJaN3dQVzhDZkNSekhKSGljMDJoVlV1cThWUVNlRXJPVGpZdlZFZEZ1MXlrQWlhK1hmUi9Jbk9WTkwwOGhoeGVpSjkvazJ1aVJmMGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI1MTA3CWZpbGU6RWVyZ29fMC4xLjcwX3g2NC1zZXR1cC5leGUKVGFDN2hoYktMVkdrVE16eHJkUy9vVmlJTGh4OGpTczEwblFnd05yNW44UkNMUjkrRWhneVc0cTd5UGpGNmd2b2FEME55MDlrRmI4UHdtMFRKcS9JQlE9PQo="
     }
   },
-  "version": "0.1.69",
-  "pub_date": "2026-10-20T08:30:07Z",
-  "notes": "Release v0.1.69"
+  "notes": "Release v0.1.70"
 }
