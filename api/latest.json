@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Njcampos1/eergo-updates/releases/download/v0.1.76/Eergo_0.1.76_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZybzAraFJySUFWdlpoeDBVb09iWncvMjEzaEQrREdJT2lUVHg1b20zMzc4Y2ZrVG9yOHFlNkM4cG1FZE5wMUF0Um9wNnZUY0Q5L1VhWU0vRUpiODhNNFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTkwOTgwCWZpbGU6RWVyZ29fMC4xLjc2X3g2NC1zZXR1cC5leGUKS3dqSjgvNEQ0OVRnNVlTV0hRV09iQStLZjROaVdqMGU5OWxzUTVFa09DcnNLUms4bWNtaDluWHVNNFpaRFdyMkxvd29BRU1Ec0xXRWJCcHJiSURUQmc9PQo="
+      "url": "https://github.com/Njcampos1/eergo-updates/releases/download/v0.1.77/Eergo_0.1.77_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVUQvNnBPWmZyb3ptT1k3cWc0aUd2UGM1b05NZmVwNWFidWtoVGgrTlNkTm1QbzVrRVNCTmJkNE9ucGVkYzdMa2ZETHJOeFNJeGM0cVczSkVjVkNVbmRHa0VDTldreWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2MjQ0CWZpbGU6RWVyZ29fMC4xLjc3X3g2NC1zZXR1cC5leGUKUUxQY1gvZTg4WHpQckUwSDFENjRVV3gxemZsZE9ER2l0UCtwaWRZTkNlMmh5dGE3SjlmQ3U1R1NoME1FaHJGZUxPOW9QZXcxYlRLelV0dW5sbTdJQlE9PQo="
     }
   },
-  "notes": "Release v0.1.76",
-  "pub_date": "2026-11-06T18:49:42Z",
-  "version": "0.1.76"
+  "version": "0.1.77",
+  "pub_date": "2026-11-19T05:30:46Z",
+  "notes": "Novedades de esta versión:\r\n\r\n- Recibir fotos desde el celular: en Configuración, Celulares conectados, puedes conectar un celular con un código QR y mandar fotos de boletas y facturas (o un PDF) directo a la Bandeja del celular. Viene apagado; lo enciende un administrador.\r\n- Ver la contabilidad desde el celular: el administrador puede permitir, celular por celular, que vea los números del mes, el IVA, lo que se debe cobrar y pagar, y los movimientos. Es sólo para mirar y no muestra el sueldo de ninguna persona.\r\n- Respaldos más seguros: el respaldo automático avisa si no se pudo guardar, y puedes proteger tus respaldos con contraseña y una hoja de recuperación (Configuración, Respaldo).\r\n- Entrar es más cómodo: Eergo recuerda tu nombre de usuario y avisa si Bloq Mayús está activado.\r\n- Si algo sale mal al abrir Eergo, ahora lo explica en pantalla y puedes guardar un informe para soporte.\r\n- Correcciones en la lectura de boletas y en la revisión de documentos."
 }
